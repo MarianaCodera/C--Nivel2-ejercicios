@@ -1,6 +1,6 @@
 ﻿namespace EJEMPLO1
 {
-    partial class frmPrincipal
+    partial class frmPrincipal //blabla
     {
         /// <summary>
         /// Required designer variable.
